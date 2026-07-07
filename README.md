@@ -11,3 +11,7 @@ An optimized, deterministic automotive ECU telemetry stream generator designed a
 To run the telemetry generator pipeline locally:
 ```bash
 python my_monitor.py
+
+## File log checking process
+'''bash
+.\monitor.txt
