@@ -13,5 +13,5 @@ To run the telemetry generator pipeline locally:
 python my_monitor.py
 
 ## File log checking process
-'''bash
+```bash
 .\monitor.txt
